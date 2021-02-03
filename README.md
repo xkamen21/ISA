@@ -15,13 +15,11 @@
 
 #### Postavení a spuštění:
 - Pro správné spuštění použijte jednu z variant:
-1.  Přeložte zadáním příkazu 'make'.
-Spusťte příkazem './isabot -t <bot_token>'
+- 1.  Přeložte zadáním příkazu 'make'. Spusťte příkazem './isabot -t <bot_token>'
 
-2.  Otevřete soubor Makefile a nahraďte token 'BOT_TOKEN' vašim tokenem
+- 2.  Otevřete soubor Makefile a nahraďte token 'BOT_TOKEN' vašim tokenem:
 - a. Spusťte příkazem 'make run'
 - b. Spusťte příkazem 'make run_verbose', spustí se s parametrem '--verbose'
-
 - Pro vyčištění zdejte 'make clean'
 - Pro nápovědu spusťte s parametrem -h: './isabot -h'
 
