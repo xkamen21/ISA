@@ -18,10 +18,10 @@
     1.  Přeložte zadáním příkazu 'make'. Spusťte příkazem './isabot -t <bot_token>'
 
     2.  Otevřete soubor Makefile a nahraďte token 'BOT_TOKEN' vašim tokenem:
-- a. Spusťte příkazem 'make run'
-- b. Spusťte příkazem 'make run_verbose', spustí se s parametrem '--verbose'
-- Pro vyčištění zdejte 'make clean'
-- Pro nápovědu spusťte s parametrem -h: './isabot -h'
+        - a. Spusťte příkazem 'make run'
+        - b. Spusťte příkazem 'make run_verbose', spustí se s parametrem '--verbose'
+        - Pro vyčištění zdejte 'make clean'
+        - Pro nápovědu spusťte s parametrem -h: './isabot -h'
 
 ### Omezení:
 - Projekt předpokladá, že bot je přídán na server.
